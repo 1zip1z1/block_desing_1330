@@ -1,0 +1,153 @@
+/* Mobile S - 320px  */
+@media (min-width: 300px) and (max-width: 320px) {
+#wrapper{
+		width: 100%;
+		overflow: hidden;
+	}
+
+	#mobile_menu_btn{
+		display: block;
+		width: 200px;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+
+	header nav {
+		display: none;
+	}
+	header nav a {
+		float: none;
+		width: 100%;
+		margin: 3px 0;
+	}
+
+	.product_item{
+		width: 90%;
+		margin: 0 auto;
+		float: none;
+		opacity: 1;
+	}
+	.product_item:first-child{
+		margin-top: 20px;
+	}
+
+	footer p{
+		width: 100%;
+		margin: 0 auto;
+		font-size: 14px;
+	}
+
+	
+}
+/* Mobile S - 320px END */
+
+
+/* Mobile M - 375px  */
+@media (min-width: 321px) and (max-width: 375px) {
+	#wrapper{
+		width: 100%;
+		overflow: hidden;
+	}
+
+	#mobile_menu_btn{
+		display: block;
+		width: 200px;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+
+	header nav {
+		display: none;
+	}
+	header nav a {
+		float: none;
+		width: 100%;
+		margin: 3px 0;
+	}
+
+	.product_item{
+		width: 90%;
+		margin: 0 auto;
+		float: none;
+		opacity: 1;
+	}
+	.product_item:first-child{
+		margin-top: 20px;
+	}
+
+	footer p{
+		width: 100%;
+		margin: 0 auto;
+		font-size: 14px;
+	}
+
+}
+/* Mobile M - 375px  END */
+
+
+
+/* Mobile L - 425px  */
+@media (min-width: 376px) and (max-width: 425px) {
+
+	#wrapper{
+		width: 100%;
+		overflow: hidden;
+	}
+
+	#mobile_menu_btn{
+		display: block;
+		width: 200px;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+
+	header nav {
+		display: none;
+	}
+	header nav a {
+		float: none;
+		width: 100%;
+		margin: 3px 0;
+	}
+
+	.product_item{
+		width: 90%;
+		margin: 0 auto;
+		float: none;
+		opacity: 1;
+	}
+	.product_item:first-child{
+		margin-top: 20px;
+	}
+
+	footer p{
+		width: 100%;
+		margin: 0 auto;
+		font-size: 14px;
+	}
+
+}
+/* Mobile L - 425px  END */
+
+
+
+
+/* Tablet - 768px  */
+@media (min-width: 426px) and (max-width: 768px) {
+	
+}
+/* Tablet - 768px  END */
+
+
+/* Laptop - 1024px  */
+@media (min-width: 769px) and (max-width: 1024px) {
+	
+}
+/* Laptop - 1024px  END */
+
+
+/* Laptop L - 1440px  */
+@media (min-width: 1025px) and (max-width: 1440px) {
+	
+}
+/* Laptop L - 1440px END */
